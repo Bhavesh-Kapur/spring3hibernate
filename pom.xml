@@ -5,6 +5,7 @@
 	<artifactId>Spring3HibernateApp</artifactId>
 	<packaging>war</packaging>
 <!-- change in the pom xml-->
+<!-- 	change 2  -->
 	<scm>
 		<developerConnection>
 			scm:git:git@github.com:OpsTree/ContinuousIntegration.git
